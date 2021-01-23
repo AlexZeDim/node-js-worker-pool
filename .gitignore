@@ -1,2 +1,4 @@
-
-idea
+# IDE
+.idea
+# yarn
+yarn.lock
